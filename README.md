@@ -2,7 +2,7 @@
 
 ##The name of the company:
 
-- E-rent
+- E-RENT
 
 ##Motto:
 
@@ -26,7 +26,7 @@
 - ID: u1610035
 - Section: 002
 
-- 5.Bekhzodxuja Shavkatov 
+- 5.Bekhzodkhuja Shavkatov 
 - ID: u1610048
 - Section: 003
 
