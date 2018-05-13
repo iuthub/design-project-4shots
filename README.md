@@ -5,22 +5,27 @@
 - E-rent
 
 ##Motto:
-Your summer house is here
+
+- Your summer house is here
 
 ##Names of all team members and IDs:
 
 - 1.Kamronbek Begmatov 
 - ID: u1610103
 - Section: 001
+
 - 2.Bekhzod Shaymonov
 - ID: u1610046
 - Section: 002
+
 - 3.Malika Juraeva
 - ID: u1610135
 - Section: 002
+
 - 4.Aziz Abdulkhakov
 - ID: u1610035
 - Section: 002
+
 - 5.Bekhzodxuja Shavkatov 
 - ID: u1610048
 - Section: 003
