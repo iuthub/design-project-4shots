@@ -1,5 +1,35 @@
 # Internet Programming: Design Project Assignment
 
-Find `ip_design_project.pdf` file in this folder, and refer to all the instructions given there. 
+#The name of the company:
 
-You have to submit your project into this repository before 06.05.2018.
+#E-rent
+
+#Motto:
+#Your summer house is here
+#Names of all team members and IDs:
+
+#1.Kamronbek Begmatov 
+#ID: u1610103
+#Section: 001
+#2.Bekhzod Shaymonov
+#ID: u1610046
+#Section: 002
+#3.Malika Juraeva
+#ID: u1610135
+#Section: 002
+#4.Aziz Abdulkhakov
+#ID: u1610035
+#Section: 002
+#5.Bekhzodxuja Shavkatov 
+#ID: u1610048
+#Section: 003
+
+#LINK TO GITHUB REPO:
+
+#https://github.com/iuthub/design-project-4shots
+
+#LINK TO WEB SITE:
+
+#https://erent.urmebel.uz
+
+
