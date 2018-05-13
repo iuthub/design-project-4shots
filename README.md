@@ -6,6 +6,7 @@
 
 ##Motto:
 Your summer house is here
+
 ##Names of all team members and IDs:
 
 - 1.Kamronbek Begmatov 
