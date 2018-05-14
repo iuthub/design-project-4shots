@@ -1,0 +1,5 @@
+[29-Apr-2018 16:52:11 Asia/Tashkent] PHP Parse error:  syntax error, unexpected '?' in /home/urmebelu/erent.urmebel.uz/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[29-Apr-2018 16:53:27 Asia/Tashkent] PHP Parse error:  syntax error, unexpected '?' in /home/urmebelu/erent.urmebel.uz/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[07-May-2018 17:54:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Controller' not found in /home/urmebelu/erent.urmebel.uz/app/Http/Controllers/ProductController.php on line 11
+[07-May-2018 17:55:56 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Controller' not found in /home/urmebelu/erent.urmebel.uz/app/Http/Controllers/ProductController.php on line 11
+[07-May-2018 19:52:27 UTC] PHP Fatal error:  Cannot use App\User as User because the name is already in use in /home/urmebelu/erent.urmebel.uz/app/Http/Controllers/ProductController.php on line 5

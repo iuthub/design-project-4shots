@@ -1,0 +1,51 @@
+#border, .title
+{
+	margin: 5px;
+	
+	background: #ccccff;
+
+
+}
+
+#border:hover
+{
+	border: 1px solid #3333ff;
+	margin: 5px;
+
+}
+
+
+.line
+{
+	margin: 5px;
+}
+
+
+
+.dacha
+{
+	width: 150px;
+	height: 150px;
+}
+
+.imagee, .title
+{
+	display: inline-block;
+	margin: 5px;
+}
+
+.imagee
+{
+	float: left;
+}
+
+p 
+{
+    font-size: 16px;
+    color: black;
+    
+}
+h3, h2
+{
+    color: black;
+}
