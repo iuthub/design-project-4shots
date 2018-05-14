@@ -1,14 +1,14 @@
 # Internet Programming: Design Project Assignment
 
-##The name of the company:
+## The name of the company:
 
 - E-RENT
 
-##Motto:
+## Motto:
 
 - Your summer house is here
 
-##Names of all team members and IDs:
+## Names of all team members and IDs:
 
 - 1.Kamronbek Begmatov 
 - ID: u1610103
@@ -30,11 +30,11 @@
 - ID: u1610048
 - Section: 003
 
-##LINK TO GITHUB REPO:
+## LINK TO GITHUB REPO:
 
 - https://github.com/iuthub/design-project-4shots
 
-##LINK TO WEB SITE:
+## LINK TO WEB SITE:
 
 - https://erent.urmebel.uz
 
