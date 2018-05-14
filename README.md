@@ -6,7 +6,7 @@
 
 ## The name of the company:
 
-- E-RENT
+- E-rent
 
 ## Motto:
 
